@@ -1,4 +1,4 @@
-<img src="https://drive.google.com/uc?export=view&id=1gKT7UKFQyf4R-ZayDSxViENwbl4RlNRI" alt="Data" align="center" width="1000" height="600">
+<img src="https://drive.google.com/uc?export=view&id=1gKT7UKFQyf4R-ZayDSxViENwbl4RlNRI" alt="Data" align="center" width="1200" height="500">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=revanthkumar73&label=Profile%20views&color=0e75b6&style=flat" alt="revanthkumar73" /> </p>
 
