@@ -1,8 +1,6 @@
 <H1> WELCOME TO CAPSTONE REPO WHERE ALL THE FILES FOR THE CASE STUDY IN THE GOOGLE CAPSTONE COURSE WERE LOCATED. </H1>
--------------------------------------------------------------------------------------------------------------------------
 <H2> THE CASE-STUDY FOLDER INSIDE THIS REPO CONTAINS: </H2>
--------------------------------------------------------------------------------------------------------------------------
-<l>
+<list>
 ⍟ PROBLEM STATEMENT - WHAT PROBLEM DOES CASE STUDY ADDRESSING.
 ⍟ PROBLEM BACKGROUND - WHAT IS THE CAUSE OF THE PROBLEM AND WHAT ARE THE FACTORS INFLUENCING THE PROBLEM.
 ⍟ PROBLEM KNOWLEDGE - WHAT DOMAIN DOES THE PROBLEM ADDRESS AND KNOWLEDGE OF TERMS IN DOMAIN
@@ -18,5 +16,5 @@
 ⍟ DOCUMENTS - THE DOCUMENTS USED AND GENERATED IN THE CASE STUDY.
 ⍟ SKILLS - WHAT ARE SKILLS THIS PROBLEM BASED ON
 ⍟ TOOLS - WHAT TYPE OF TOOLS WERE USED IN THIS CASE STUDY.
-</l>
+</list>
 -------------------------------------------------------------------------------------------------------------
