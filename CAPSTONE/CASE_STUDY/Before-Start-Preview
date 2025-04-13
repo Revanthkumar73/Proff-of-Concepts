@@ -4,11 +4,20 @@ Introduction:
 Welcome to the Cyclistic bike-share analysis case study! In this case study, I worked for a fictional company, Cyclistic, along with some key team members. 
 In order to answer the business questions, by following the steps of the data analysis process: Ask, Prepare, Process, Analyze, Share, and Act. 
 
-Scenario:
+Problem-statement:
 A bike-share company in chicago wants to design a new marketing statergy to convert casual riders into annual members by understanding 
 how casual riders and annual members use cyclists bike differently.
-Finally, generated results from these recommendations must be backed up with compelling data insights  and professional data visualizations 
+
+Problem-solution:
+To generate recommendations from the problem statement must be backed up with compelling data insights and professional data visualizations 
 in order to approved by cyclistic executives.
+
+Stakeholder:
+Lily Moreno, Manager of analytics team and director of marketing in developing of campaigns and initiatives to promote the bike-share program.
+
+Data Teams involved:
+Cyclistic marketing analytics team: team of data analysts responsible for collecting, analyzing, and reporting data that helps guide cyclists marketing strategy.
+Cyclistic executive team: Detail-oriented executive team will decide whether to approve the recommended marketing program.
 
 
 
