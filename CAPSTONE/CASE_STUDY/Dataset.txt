@@ -1,6 +1,6 @@
 ⍟ About data: The public dataset to explore how different customer types are using cyclists bikes.
 
-⍟ Download The dataset using following link:[Data link](https://divvy-tripdata.s3.amazonaws.com/index.html)
+⍟ Download The dataset using following link:https://divvy-tripdata.s3.amazonaws.com/index.html
 
   This above dataset in the link contains different zip folders for years and 12months, which is labelled as 202004-divvy-tripdata.zip where 2020 is 
   year and 04 is the month. For this problem 12months of data for any year should be downloaded. choosing other data might lead to errors, Unzip the 
