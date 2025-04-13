@@ -11,3 +11,5 @@
   the data exceeds the memory available in the free plan. (Note: The datasets have a different name because Cyclistic is a fictional company. 
   For the purposes of this case study, the datasets are appropriate and will enable you to answer the business questions. 
 
+⍟ Data License : The data has been made available by Motivate International Inc. under this license mentioned https://divvybikes.com/data-license-agreement.
+
